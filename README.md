@@ -1,2 +1,2 @@
 # Flomail
-Gmail inbox reading, sending, contacts
+Gmail inbox reading, sending, contacts, using python 
